@@ -5,7 +5,7 @@
   "authors": "OpenSSL Project <openssl-dev@openssl.org>",
   "homepage": "https://github.com/FredericJacobs/OpenSSL-Pod",
   "source": {
-    "http": "https://openssl.org/source/openssl-1.0.2f.tar.gz",
+    "http": "https://openssl.org/source/old/1.0.2/openssl-1.0.2f.tar.gz",
     "sha1": "2047c592a6e5a42bd37970bdb4a931428110a927"
   },
   "source_files": "opensslIncludes/openssl/*.h",

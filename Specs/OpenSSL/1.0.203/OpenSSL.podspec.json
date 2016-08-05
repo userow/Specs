@@ -9,7 +9,7 @@
     "file": "LICENSE"
   },
   "source": {
-    "http": "https://openssl.org/source/openssl-1.0.2c.tar.gz",
+    "http": "https://openssl.org/source/old/1.0.2/openssl-1.0.2c.tar.gz",
     "sha1": "6e4a5e91159eb32383296c7c83ac0e59b83a0a44"
   },
   "source_files": "opensslIncludes/openssl/*.h",
